@@ -17,4 +17,4 @@ Dump and rebuild the database using the following command in the terminal: *psql
 
 ### Database After Inputs
 *Ignore username **scmeeerrr**, done for testing program before README.md*
-![database-after-examples](example-img/db-example.png)
+![database-after-examples](number_guessing_game/example-img/db-example.png)
