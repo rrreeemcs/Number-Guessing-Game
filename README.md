@@ -10,10 +10,10 @@ Dump and rebuild the database using the following command in the terminal: *psql
 *For the sake of these examples, the random number is shown to the user. In actual program, random number is hidden.*
 
 **Example 1:**
-![Example 1](example-img/example-1.png)
+![Example 1](number_guessing_game/example-img/example-1.png)
 
 **Example 2:**
-![Example 2](example-img/example-2.png)
+![Example 2](number_guessing_game/example-img/example-2.png)
 
 ### Database After Inputs
 *Ignore username **scmeeerrr**, done for testing program before README.md*
